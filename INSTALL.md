@@ -6,7 +6,7 @@
 
 ## 打開CMD(系統管理員)然後輸入
 
-> cd C:\nssm-2.24-101-g897c7ad\win64 \
+> cd C:\nssm-2.24-101-g897c7ad\win64
 > nssm install
 
 ![](/assets/image/NSSM.jpg)
