@@ -17,5 +17,3 @@
 ![服務](/assets/image/服務.JPG)
 
 ## 打開遊覽器並輸入localhost有畫面就成功了!
-
->>>
