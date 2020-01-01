@@ -8,12 +8,12 @@
 
 > cd C:\nssm-2.24-101-g897c7ad\win64 <br/>nssm install
 
-![NSSM](/assets/image/NSSM.jpg)
+![NSSM](/assets/image/NSSM.JPG)
 
-![安裝](/assets/image/安裝.jpg)
+![安裝](/assets/image/安裝.JPG)
 
 ## 打開**開始**並搜尋**服務**
 
-![服務](/assets/image/服務.jpg)
+![服務](/assets/image/服務.JPG)
 
 ## 打開遊覽器並輸入localhost有畫面就成功了!
