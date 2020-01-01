@@ -1,5 +1,5 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
+* [安裝](install.md)
 
-* [安裝](INSTALL.md)
