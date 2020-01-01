@@ -38,6 +38,7 @@
 >此時已經建立了SSL憑證，但是是未加密。輸入一下指令才會加密。<br/>
 >openssl pkcs12 -export -in server.crt -inkey server.key -out server.pfx<br/>
 >產生了server.pfx與server.crt與server.key
+
 ![憑證](/assets/image/憑證.JPG)
 
 ## NGINX安裝SSL
